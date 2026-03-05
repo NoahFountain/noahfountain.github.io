@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://noahfountain.github.io/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://noahfountain.github.io/Iran-Conflict/</loc>
+    <lastmod>2026-03-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noahfountain.github.io/Iran-Conflict/Iranian%20Conflict%20%E2%80%94%20This%20is%20Not%20About%20Dictators.pdf</loc>
+    <lastmod>2026-03-03</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://noahfountain.github.io/YEC-dismantled/</loc>
+    <lastmod>2026-03-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noahfountain.github.io/YEC-dismantled/Young%20Earth%20Creationism%20%E2%80%94%20The%20Dismantling%20of%20a%20Pseudo-Scientific%20and%20Presuppositional%20Belief.pdf</loc>
+    <lastmod>2026-03-02</lastmod>
+    <priority>0.5</priority>
+  </url>
+</urlset>
